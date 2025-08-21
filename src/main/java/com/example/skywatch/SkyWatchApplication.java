@@ -8,6 +8,7 @@ public class SkyWatchApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SkyWatchApplication.class, args);
+        System.out.println("你无敌了");
     }
 
 }
